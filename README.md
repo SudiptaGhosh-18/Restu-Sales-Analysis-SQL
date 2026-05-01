@@ -11,7 +11,8 @@ SALES DATA  ABOUT SELLING OF RESTAURANT
 Database: SQL(PostgreSQL)
 
 # File of Repository
-'Restu-Sales-Analysis-SQL':Constains all queries.
+'Restu-Sales-Analysis-SQL':Constains all queries group by file.
+'TOTAL_QUALITY.SQL':specific queries which already describe above.
 'README.md':Provides overview of queries.
 
 #SQL #DataAnalysis #Github #Portfolio #DataAnalytics #SQLProject #RestaurentAnalysis #CareerGrowth
